@@ -1,2 +1,5 @@
 # pas les fichiers historique de notepad++
 nppBackup
+# pas de fichier historique local
+.bak
+#   ### FIN ###
