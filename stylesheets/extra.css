@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Algerian';
+    font-weight: normal; 
+    font-style: normal;
+    src: url('../fonts/ALGER.TTF') format('truetype');
+  }
+
+.md-typeset xx {
+    color: rgb(47, 255, 116);
+    font-family: "Algerian";
+}
+

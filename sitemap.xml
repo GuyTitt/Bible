@@ -2,7 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://guytitt.github.io/ma_doc/</loc>
-         <lastmod>2024-02-26</lastmod>
+         <lastmod>2024-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guytitt.github.io/ma_doc/tags/</loc>
+         <lastmod>2024-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guytitt.github.io/ma_doc/Dossier01/D01P01/</loc>
+         <lastmod>2024-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guytitt.github.io/ma_doc/Dossier01/D01P02/</loc>
+         <lastmod>2024-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guytitt.github.io/ma_doc/Dossier02/A%20lire/</loc>
+         <lastmod>2024-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guytitt.github.io/ma_doc/tags/</loc>
+         <lastmod>2024-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
